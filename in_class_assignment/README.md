@@ -1,2 +1,2 @@
-# Repo
-Includes In-Class-Assignments.
+# In-Class-Assignments
+Exercises (In-Class-Assignments).
