@@ -1,3 +1,4 @@
+## FINAL: https://github.com/riturana480/machinelearning/blob/main/Group%20exercise/Exercise%202/Group_Exercise_2_PART_2.ipynb
 # Chapter 2 - Group Exercise 2 - Regression Analysis and Feature Selection
 
 Group consisting of Ritu, Vikrant Singh and Kay Müller
